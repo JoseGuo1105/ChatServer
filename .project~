@@ -1,10 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
+<<<<<<< HEAD
+	<name>chatTool</name>
+=======
 	<name>chatServer</name>
+>>>>>>> 358ce8349530d97d445cbfd0e043e94c4340f701
 	<comment></comment>
 	<projects>
 	</projects>
 	<buildSpec>
+<<<<<<< HEAD
 		<buildCommand>
 			<name>org.erlide.core.erlbuilder</name>
 			<arguments>
@@ -13,5 +18,9 @@
 	</buildSpec>
 	<natures>
 		<nature>org.erlide.core.erlnature</nature>
+=======
+	</buildSpec>
+	<natures>
+>>>>>>> 358ce8349530d97d445cbfd0e043e94c4340f701
 	</natures>
 </projectDescription>
