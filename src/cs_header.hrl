@@ -1,0 +1,5 @@
+-record(user, {id, name ,passwd, login_times, chat_times, last_login}).
+-record(loginUser, {id, name}).
+-record(chatLog, {id, time,name,chatMessage}).
+-record(sequence, {name, seq}).
+-record(state, {lSocket}).
